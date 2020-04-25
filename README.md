@@ -1,5 +1,5 @@
 This project was now a template grabbed from https://github.com/tbakerx?tab=repositories and will be further improved
-## Step 1:
+### Step 1:
 
 Check https://github.com/tbakerx?tab=repositories to get up-to-date changes
 
