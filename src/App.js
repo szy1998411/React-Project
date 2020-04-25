@@ -47,6 +47,10 @@ class App extends Component {
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+          edited by tbb.
+        </p>
         <Testimonials data={this.state.resumeData.testimonials}/>
         <Footer data={this.state.resumeData.main}/>
       </div>
