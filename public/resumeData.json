@@ -1,50 +1,36 @@
 {
   "main": {
-    "name":"just a template here",
+    "name":"Zhenyu Sun(Joe)",
+    "summary": "I am a Computer Science & Optimization Student in University of Waterloo. I am familiar with the development tools and cycles with over a year's experience in the industry, currently looking for an internship this fall(2020)",
     "occupation":"(Your Occupation Here)",
     "description":"We will further improve this project by using Emotion.js for styling and possibly next.js",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "image":"photo.jpeg",
+    "bio":"I am at my fourth year in University of Waterloo. I am studying Computer Science and Optimization, with skills learned from Computer Science and mathematical knowledge from Optimization, I am able to combine them together to solve and optimize complicate problems. I have been worked as software developer, full stack-developer and front-end developer in various companies across North America",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "sunzhenyu1998411@outlook.com",
+    "phone": "226-268-2127",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"729 Cedar Bend Drive",
+      "city":"Waterloo",
+      "state":"Ontario",
+      "zip": "N2V 2R2"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/zhenyu-sun-897761156/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/mr.tuuuu/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/szy1998411",
         "className":"fa fa-github"
       },
       {
@@ -55,63 +41,61 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here is a brief summary of my main skills",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Waterloo",
+        "degree":"Bachelor in Computer Science",
+        "graduated":"April 2021(Expected)",
+        "description":"I am currently maintaining a major average of 93%. I learned various topics about Computer Science in school. I started from principle of programming followed by courses on Object-Oriented Programming. Further, I studied Sequential Programming, Operating System and Concurrency Programming. In theoretical aspect, I learned Data Structure, Algorithm, Numerical Computation and Complexity Theory. I am mostly interested in Algorithm and Complexity Theory."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Waterloo",
+        "degree":"Bachelor in Mathematics",
+        "graduated":"April 2021(Expected)",
+        "description":"I am currently maintaining a major average of 92%. I am mostly interested in Discrete Math. I had a broad introduction in Linear Programming, Graph Theory, Enumeration, Coding Theory, Network Flow and Cryptography. With the knowledge of various mathematical fields, I am able to apply them in various aspects of Computer Science, including developing and optimizing graph algorithm."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Yahoo(Verizon Media)",
+        "title":"Software Engineer",
+        "years":"January 2020 - March 2020",
+        "description":"I mostly worked as front-end developer during my time in Yahoo. I mainly focused on UI redesign of Athenz, a open source platform. We rewrote the UI in React and Next.js followed by intergration of Redux. The use of Next.js allowed us to separate work by pages and I wrote a third of the pages independently. I reimplemented the data fetching logic by introducing on-demand fetching and it reduced data loading time from 3s to less than 1s. We also used Emotion.js to remove original nested css classes, this greatly improved the readability of our code."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"ADP Canada Inc.",
+        "title":"Software Developer",
+        "years":"May 2019 - August 2019",
+        "description":"I was in a mobile app team in ADP. We mainly used React and Redux for development. I mainly focused on the maintainance of our existing product, a payroll management system. I completed over 20 defect tickets on UI side, including text misalignment, button mispositioning and incorrect image size. I also fixed a group of flex display issue by restructuring the grid classes. I also did some development tasks. For example, I added a new information dialog after user's login."
+      },
+      {
+        "company":"Delego Software Inc.",
+        "title":"Software Developer",
+        "years":"September 2018 - December 2018",
+        "description":"I was in a web development team. We featured on providing payment platforms. During the first half of my work term, I was focusing on the maintainance of our current payment website. The website is in Angular and Java. I was on the Java side and I completed some injection configurations and adding JUnit tests. I moved to the development of a new website during my second half. I added configurable website icon and fixed data sorting issues. Besides that I also did some build script work in Gradle. I modified some of the build script to bring a faster development build."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"C++/C",
+        "level":"75%"
       },
       {
-        "name":"Illustrator",
+        "name":"React.js",
+        "level":"65%"
+      },
+      {
+        "name":"Java",
+        "level":"50%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"git",
         "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },
@@ -152,8 +136,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here we will build our own resume template website",
-        "user":"Joe"
+        "text":"Science is what we understand well enough to explain to a computer. Art is everything else we do.",
+        "user":"Donald Ervin Knuth"
       }
     ]
   }
